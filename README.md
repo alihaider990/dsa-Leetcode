@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/alihaider990/dsa-java/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/alihaider990/dsa-java/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/alihaider990/dsa-java/tree/master/0027-remove-element) |
+| [0053-maximum-subarray](https://github.com/alihaider990/dsa-java/tree/master/0053-maximum-subarray) |
 | [0056-merge-intervals](https://github.com/alihaider990/dsa-java/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/alihaider990/dsa-java/tree/master/0057-insert-interval) |
 | [0088-merge-sorted-array](https://github.com/alihaider990/dsa-java/tree/master/0088-merge-sorted-array) |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/alihaider990/dsa-java/tree/master/0004-median-of-two-sorted-arrays) |
+| [0053-maximum-subarray](https://github.com/alihaider990/dsa-java/tree/master/0053-maximum-subarray) |
 ## String
 |  |
 | ------- |
@@ -130,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/alihaider990/dsa-java/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/alihaider990/dsa-java/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/alihaider990/dsa-java/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 ## Counting
