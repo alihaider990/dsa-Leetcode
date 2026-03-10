@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/alihaider990/dsa-java/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1512-number-of-good-pairs](https://github.com/alihaider990/dsa-java/tree/master/1512-number-of-good-pairs) |
 | [1652-defuse-the-bomb](https://github.com/alihaider990/dsa-java/tree/master/1652-defuse-the-bomb) |
+| [1929-concatenation-of-array](https://github.com/alihaider990/dsa-java/tree/master/1929-concatenation-of-array) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/alihaider990/dsa-java/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Hash Table
 |  |
@@ -149,4 +150,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/alihaider990/dsa-java/tree/master/0209-minimum-size-subarray-sum) |
+## Simulation
+|  |
+| ------- |
+| [1929-concatenation-of-array](https://github.com/alihaider990/dsa-java/tree/master/1929-concatenation-of-array) |
 <!---LeetCode Topics End-->
