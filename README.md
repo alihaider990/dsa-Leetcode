@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/alihaider990/dsa-java/tree/master/0053-maximum-subarray) |
 | [0056-merge-intervals](https://github.com/alihaider990/dsa-java/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/alihaider990/dsa-java/tree/master/0057-insert-interval) |
+| [0066-plus-one](https://github.com/alihaider990/dsa-java/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/alihaider990/dsa-java/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/alihaider990/dsa-java/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/alihaider990/dsa-java/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/alihaider990/dsa-java/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/alihaider990/dsa-java/tree/master/0009-palindrome-number) |
+| [0066-plus-one](https://github.com/alihaider990/dsa-java/tree/master/0066-plus-one) |
 | [1512-number-of-good-pairs](https://github.com/alihaider990/dsa-java/tree/master/1512-number-of-good-pairs) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/alihaider990/dsa-java/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [3227-vowels-game-in-a-string](https://github.com/alihaider990/dsa-java/tree/master/3227-vowels-game-in-a-string) |
