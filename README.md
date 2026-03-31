@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/alihaider990/dsa-java/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/alihaider990/dsa-java/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/alihaider990/dsa-java/tree/master/0209-minimum-size-subarray-sum) |
+| [0268-missing-number](https://github.com/alihaider990/dsa-java/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/alihaider990/dsa-java/tree/master/0283-move-zeroes) |
 | [0643-maximum-average-subarray-i](https://github.com/alihaider990/dsa-java/tree/master/0643-maximum-average-subarray-i) |
 | [0904-fruit-into-baskets](https://github.com/alihaider990/dsa-java/tree/master/0904-fruit-into-baskets) |
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/alihaider990/dsa-java/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0141-linked-list-cycle](https://github.com/alihaider990/dsa-java/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/alihaider990/dsa-java/tree/master/0142-linked-list-cycle-ii) |
+| [0268-missing-number](https://github.com/alihaider990/dsa-java/tree/master/0268-missing-number) |
 | [0424-longest-repeating-character-replacement](https://github.com/alihaider990/dsa-java/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/alihaider990/dsa-java/tree/master/0567-permutation-in-string) |
 | [0904-fruit-into-baskets](https://github.com/alihaider990/dsa-java/tree/master/0904-fruit-into-baskets) |
@@ -60,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/alihaider990/dsa-java/tree/master/0009-palindrome-number) |
 | [0066-plus-one](https://github.com/alihaider990/dsa-java/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/alihaider990/dsa-java/tree/master/0070-climbing-stairs) |
+| [0268-missing-number](https://github.com/alihaider990/dsa-java/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/alihaider990/dsa-java/tree/master/0342-power-of-four) |
 | [1512-number-of-good-pairs](https://github.com/alihaider990/dsa-java/tree/master/1512-number-of-good-pairs) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/alihaider990/dsa-java/tree/master/1523-count-odd-numbers-in-an-interval-range) |
@@ -77,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/alihaider990/dsa-java/tree/master/0004-median-of-two-sorted-arrays) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/alihaider990/dsa-java/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/alihaider990/dsa-java/tree/master/0209-minimum-size-subarray-sum) |
+| [0268-missing-number](https://github.com/alihaider990/dsa-java/tree/master/0268-missing-number) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -122,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0056-merge-intervals](https://github.com/alihaider990/dsa-java/tree/master/0056-merge-intervals) |
 | [0088-merge-sorted-array](https://github.com/alihaider990/dsa-java/tree/master/0088-merge-sorted-array) |
+| [0268-missing-number](https://github.com/alihaider990/dsa-java/tree/master/0268-missing-number) |
 | [0977-squares-of-a-sorted-array](https://github.com/alihaider990/dsa-java/tree/master/0977-squares-of-a-sorted-array) |
 ## Greedy
 |  |
@@ -167,5 +172,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/alihaider990/dsa-java/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/alihaider990/dsa-java/tree/master/0342-power-of-four) |
 <!---LeetCode Topics End-->
