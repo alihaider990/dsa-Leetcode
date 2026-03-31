@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/alihaider990/dsa-java/tree/master/0009-palindrome-number) |
 | [0066-plus-one](https://github.com/alihaider990/dsa-java/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/alihaider990/dsa-java/tree/master/0070-climbing-stairs) |
+| [0342-power-of-four](https://github.com/alihaider990/dsa-java/tree/master/0342-power-of-four) |
 | [1512-number-of-good-pairs](https://github.com/alihaider990/dsa-java/tree/master/1512-number-of-good-pairs) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/alihaider990/dsa-java/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [3227-vowels-game-in-a-string](https://github.com/alihaider990/dsa-java/tree/master/3227-vowels-game-in-a-string) |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/alihaider990/dsa-java/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/alihaider990/dsa-java/tree/master/0021-merge-two-sorted-lists) |
 | [0206-reverse-linked-list](https://github.com/alihaider990/dsa-java/tree/master/0206-reverse-linked-list) |
+| [0342-power-of-four](https://github.com/alihaider990/dsa-java/tree/master/0342-power-of-four) |
 ## Binary Search
 |  |
 | ------- |
@@ -162,4 +164,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/alihaider990/dsa-java/tree/master/0070-climbing-stairs) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0342-power-of-four](https://github.com/alihaider990/dsa-java/tree/master/0342-power-of-four) |
 <!---LeetCode Topics End-->
