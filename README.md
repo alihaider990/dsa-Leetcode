@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/alihaider990/dsa-java/tree/master/0009-palindrome-number) |
 | [0066-plus-one](https://github.com/alihaider990/dsa-java/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/alihaider990/dsa-java/tree/master/0070-climbing-stairs) |
+| [0258-add-digits](https://github.com/alihaider990/dsa-java/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/alihaider990/dsa-java/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/alihaider990/dsa-java/tree/master/0342-power-of-four) |
 | [1512-number-of-good-pairs](https://github.com/alihaider990/dsa-java/tree/master/1512-number-of-good-pairs) |
@@ -167,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/alihaider990/dsa-java/tree/master/0258-add-digits) |
 | [1929-concatenation-of-array](https://github.com/alihaider990/dsa-java/tree/master/1929-concatenation-of-array) |
 ## Memoization
 |  |
@@ -177,4 +179,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0268-missing-number](https://github.com/alihaider990/dsa-java/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/alihaider990/dsa-java/tree/master/0342-power-of-four) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/alihaider990/dsa-java/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
