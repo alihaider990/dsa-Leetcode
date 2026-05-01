@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0342-power-of-four](https://github.com/alihaider990/dsa-java/tree/master/0342-power-of-four) |
 | [1512-number-of-good-pairs](https://github.com/alihaider990/dsa-java/tree/master/1512-number-of-good-pairs) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/alihaider990/dsa-java/tree/master/1523-count-odd-numbers-in-an-interval-range) |
+| [2235-add-two-integers](https://github.com/alihaider990/dsa-java/tree/master/2235-add-two-integers) |
 | [3227-vowels-game-in-a-string](https://github.com/alihaider990/dsa-java/tree/master/3227-vowels-game-in-a-string) |
 ## Recursion
 |  |
