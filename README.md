@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/alihaider990/dsa-java/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/alihaider990/dsa-java/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/alihaider990/dsa-java/tree/master/0342-power-of-four) |
+| [0509-fibonacci-number](https://github.com/alihaider990/dsa-java/tree/master/0509-fibonacci-number) |
 | [1512-number-of-good-pairs](https://github.com/alihaider990/dsa-java/tree/master/1512-number-of-good-pairs) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/alihaider990/dsa-java/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [2235-add-two-integers](https://github.com/alihaider990/dsa-java/tree/master/2235-add-two-integers) |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0021-merge-two-sorted-lists](https://github.com/alihaider990/dsa-java/tree/master/0021-merge-two-sorted-lists) |
 | [0206-reverse-linked-list](https://github.com/alihaider990/dsa-java/tree/master/0206-reverse-linked-list) |
 | [0342-power-of-four](https://github.com/alihaider990/dsa-java/tree/master/0342-power-of-four) |
+| [0509-fibonacci-number](https://github.com/alihaider990/dsa-java/tree/master/0509-fibonacci-number) |
 ## Binary Search
 |  |
 | ------- |
@@ -156,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/alihaider990/dsa-java/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/alihaider990/dsa-java/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/alihaider990/dsa-java/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0509-fibonacci-number](https://github.com/alihaider990/dsa-java/tree/master/0509-fibonacci-number) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/alihaider990/dsa-java/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 ## Counting
 |  |
@@ -175,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/alihaider990/dsa-java/tree/master/0070-climbing-stairs) |
+| [0509-fibonacci-number](https://github.com/alihaider990/dsa-java/tree/master/0509-fibonacci-number) |
 ## Bit Manipulation
 |  |
 | ------- |
