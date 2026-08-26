@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/alihaider990/dsa-java/tree/master/0268-missing-number) |
 | [0424-longest-repeating-character-replacement](https://github.com/alihaider990/dsa-java/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/alihaider990/dsa-java/tree/master/0567-permutation-in-string) |
+| [0771-jewels-and-stones](https://github.com/alihaider990/dsa-java/tree/master/0771-jewels-and-stones) |
 | [0904-fruit-into-baskets](https://github.com/alihaider990/dsa-java/tree/master/0904-fruit-into-baskets) |
 | [1512-number-of-good-pairs](https://github.com/alihaider990/dsa-java/tree/master/1512-number-of-good-pairs) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/alihaider990/dsa-java/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
@@ -100,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0345-reverse-vowels-of-a-string](https://github.com/alihaider990/dsa-java/tree/master/0345-reverse-vowels-of-a-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/alihaider990/dsa-java/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/alihaider990/dsa-java/tree/master/0567-permutation-in-string) |
+| [0771-jewels-and-stones](https://github.com/alihaider990/dsa-java/tree/master/0771-jewels-and-stones) |
 | [0917-reverse-only-letters](https://github.com/alihaider990/dsa-java/tree/master/0917-reverse-only-letters) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/alihaider990/dsa-java/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [3227-vowels-game-in-a-string](https://github.com/alihaider990/dsa-java/tree/master/3227-vowels-game-in-a-string) |
