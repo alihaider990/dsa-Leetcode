@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/alihaider990/dsa-java/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/alihaider990/dsa-java/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/alihaider990/dsa-java/tree/master/0342-power-of-four) |
+| [0412-fizz-buzz](https://github.com/alihaider990/dsa-java/tree/master/0412-fizz-buzz) |
 | [0509-fibonacci-number](https://github.com/alihaider990/dsa-java/tree/master/0509-fibonacci-number) |
 | [1512-number-of-good-pairs](https://github.com/alihaider990/dsa-java/tree/master/1512-number-of-good-pairs) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/alihaider990/dsa-java/tree/master/1523-count-odd-numbers-in-an-interval-range) |
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/alihaider990/dsa-java/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/alihaider990/dsa-java/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/alihaider990/dsa-java/tree/master/0345-reverse-vowels-of-a-string) |
+| [0412-fizz-buzz](https://github.com/alihaider990/dsa-java/tree/master/0412-fizz-buzz) |
 | [0424-longest-repeating-character-replacement](https://github.com/alihaider990/dsa-java/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/alihaider990/dsa-java/tree/master/0567-permutation-in-string) |
 | [0771-jewels-and-stones](https://github.com/alihaider990/dsa-java/tree/master/0771-jewels-and-stones) |
@@ -179,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/alihaider990/dsa-java/tree/master/0258-add-digits) |
+| [0412-fizz-buzz](https://github.com/alihaider990/dsa-java/tree/master/0412-fizz-buzz) |
 | [1929-concatenation-of-array](https://github.com/alihaider990/dsa-java/tree/master/1929-concatenation-of-array) |
 ## Memoization
 |  |
